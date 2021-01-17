@@ -1,3 +1,5 @@
 # Dice App
 A simple Dice rolling android application developed with flutter
-![](sample.gif)
+
+<img src="sample.gif" width="40" height="40" />
+
